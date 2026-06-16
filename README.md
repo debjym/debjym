@@ -48,5 +48,5 @@ The work clusters around three layers: a **lab layer** (hands-on CGE-P reference
 ## Connect
 
 - **GitHub:** [github.com/debjym](https://github.com/debjym)
-- **LinkedIn:** <!-- linkedin.com/in/your-profile -->
-- **Location:** <!-- Your city, state/country -->
+- **LinkedIn:** linkedin.com/in/debjyotimukherjeeleeds
+- **Location:** Toronto, Canada
